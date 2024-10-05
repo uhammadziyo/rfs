@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container{
+      max-width: 1440px;
+      margin: 0 auto;
+  }
+  body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .inputtilo{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 70px;
+  }
+  .inputtilo2{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 70px;
+  }
+  .btn-login{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    border: none;
+    color: white;
+  }
+  .btn-add{
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    border: none;
+    color: white;
+}
+.login{
+    padding-top: 100px;
+    background-color: yellow;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+.h1{
+    color: aquamarine;
+}
+.ota{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-left: 500px;
+  padding-top: 100px;
+}
+.refef{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  text-shadow: 500px;
+}
